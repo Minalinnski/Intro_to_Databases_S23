@@ -1,0 +1,1 @@
+mongo_atlas_url = "mongodb+srv://dff9:AFvhYD5almxKn5C4@cluster0.t8qdk.mongodb.net/?retryWrites=true&w=majority"
